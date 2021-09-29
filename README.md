@@ -1,4 +1,4 @@
-# Control-illegal-parking-forTheHandicapped
+# Control-illegal-parking-forTheImpaired
 라즈베리파이와 OpenCV를 이용한 장애인 전용 주차구역 불법주차 단속 시스템
 
 
